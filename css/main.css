@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  font-family: 'Questrial', sans-serif;
+}
+
+body{
+  background-image: url('../assets/images/fondo2.png');
+  width: 100%;
+  height: 100vh;
+
+}
+
+.fondo-arriba{
+  background-color: #84AF9B;
+}
+
+.letter-arriba{
+  font-size: 80px;
+  color: #fc9d99;
+}
+
+.letter-title{
+  font-size: 80px;
+  color: gray;
+}
+
+.style-fondo{
+  background-image: url('../assets/images/fondo3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center 90%;
+	justify-content: flex-end;
+}
+
+.img-persons{
+  height: 300px;
+}
+
+.style-li{
+  font-size: 30px;
+  text-align: justify;
+}
+
+.letter-pha{
+  text-align: justify;
+  margin-bottom: 5px;
+}
